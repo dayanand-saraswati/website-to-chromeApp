@@ -1,0 +1,15 @@
+{
+	"name": "yourSite.com",
+	"description": "What purpose your site server and what it solves",
+	"version": "1.0.0.0",
+	"manifest_version": 2,
+	"app": {
+		"background": {
+			"scripts": ["background.js"]
+		}
+	},
+	"icons": {
+		"16": "<a valid 16x16 px image>",
+		"128": "<a valid 128x128 px image>"
+	}
+}
